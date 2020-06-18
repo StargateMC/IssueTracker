@@ -2,7 +2,7 @@
 name: Client Crash report
 about: Create a report regarding a crash while playing the game
 title: "Client Crash - "
-labels: Bug,Crash,Client
+labels: bug,crash,client
 assignees: ''
 
 ---
