@@ -1,7 +1,7 @@
 ---
-name: Bug report (While on official Server)
+name: Bug report
 about: Create a report to help us fix problems and improve your experience in-game
-title: "[BUG]"
+title: "Bug - "
 labels: Bug
 assignees: ''
 
