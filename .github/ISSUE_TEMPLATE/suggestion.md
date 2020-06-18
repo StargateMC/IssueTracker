@@ -1,3 +1,12 @@
+---
+name: Suggestion
+about: Suggest a way we can improve the client or server
+title: "Suggestion - "
+labels: suggestion
+assignees: ''
+
+---
+
 [Please fill out the form below and delete the sections in square brackets after reading them]
 
 ## What is your suggestion?
