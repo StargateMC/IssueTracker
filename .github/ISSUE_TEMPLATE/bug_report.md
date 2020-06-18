@@ -1,8 +1,8 @@
 ---
 name: Bug report
-about: Create a report to help us fix problems and improve your experience in-game
+about: Create a report to help us fix problems and improve your experience in-game that do not crash the client
 title: "Bug - "
-labels: Bug
+labels: bug
 assignees: ''
 
 ---
@@ -22,7 +22,7 @@ assignees: ''
 >Why is this important?
 >Knowing the exact wording of an error allows us to scan hundreds of thousands of lines of code and configuration files quickly to identify where the problem occured ]
 
-## Are playing on a Multiplayer Server?
+## Where are you playing?
 - [x] Single Player
 - [x] MultiPlayer (StargateMC.com)
 - [x] MultiPlayer (Not StargateMC.com)
