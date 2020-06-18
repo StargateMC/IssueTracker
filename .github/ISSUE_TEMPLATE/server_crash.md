@@ -1,6 +1,6 @@
 ---
 name: Server Crash report
-about: Create a report regarding a server crash while playing the game
+about: Create a report regarding a StargateMC.com server crash while playing the game
 title: Server Crash - "
 labels: crash,server
 assignees: ''
