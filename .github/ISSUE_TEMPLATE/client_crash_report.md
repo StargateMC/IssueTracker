@@ -35,7 +35,7 @@ assignees: ''
 >Why is this important?
 >Knowing the exact wording of an error allows us to scan hundreds of thousands of lines of code and configuration files quickly to identify where the problem occured ]
 
-## Are playing on a Multiplayer Server?
+## Where are you playing?
 - [x] Single Player
 - [x] MultiPlayer (StargateMC.com)
 - [x] MultiPlayer (Not StargateMC.com)
